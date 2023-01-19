@@ -1,14 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>README</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -24,7 +13,8 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [Author](#author)
+  - [👥 Author ](#author)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
@@ -120,6 +110,13 @@ then open any browser and enter this address `localhost:3000`
 * Twitter: [@twitterhandle](https://twitter.com/AbigiyaTY)
 * LinkedIn: [@LinkedIn](https://www.linkedin.com/in/AbigiyaTY)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## [🔭 Future Features ](#-future-features-)
+In the future I want to add the following features
+- Add API authentication.
+- Use josn serailzation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
